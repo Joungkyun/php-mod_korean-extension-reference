@@ -6,4 +6,5 @@
    * Check Functions
    * Filesystem Functions
    * HTML Functions
+   * Charset Functions
 
