@@ -5,7 +5,7 @@
 * [APIs](apis.md)
    * [Check Functions](check_functions.md)
        * [check_filename_lib](Check/checkfilename_lib.md)
-       * [check_htmltbale_lib](Check/check_htmltbale_lib)
+       * [check_htmltbale_lib](Check/checkhtmltbale_lib.md)
        * [check_uristr_lib](Check/check_uristr_lib)
        * [get_microtime_lib](Check/get_microtime_lib)
        * [human_fsize_lib](Check/human_fsize_lib)
