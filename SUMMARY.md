@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* APIs
+* [APIs](apis.md)
 
