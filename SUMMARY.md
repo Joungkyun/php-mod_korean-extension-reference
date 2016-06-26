@@ -4,4 +4,5 @@
 * [Installation](installation.md)
 * [APIs](apis.md)
    * Check Functions
+   * Filesystem Functions
 
