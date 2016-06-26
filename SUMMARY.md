@@ -23,7 +23,7 @@
        * [putfile_lib](Filesystem/putfile_lib)
        * [readfile_lib](Filesystem/readfile_lib)
    * [HTML Functions](HTML/README.md)
-       * [agentinfo_lib](HTML/agentinfo_lib)
+       * [agentinfo_lib](HTML/agentinfolib.md)
        * [autolink_lib](HTML/autolink_lib)
        * [get_hostname_lib](HTML/get_hostname_lib)
        * [movepage_lib](HTML/movepage_lib)
