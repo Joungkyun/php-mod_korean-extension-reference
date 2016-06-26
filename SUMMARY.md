@@ -7,4 +7,5 @@
    * Filesystem Functions
    * HTML Functions
    * Charset Functions
+   * Image Functions
 
