@@ -8,4 +8,5 @@
    * HTML Functions
    * Charset Functions
    * Image Functions
+   * Mail Functions
 
