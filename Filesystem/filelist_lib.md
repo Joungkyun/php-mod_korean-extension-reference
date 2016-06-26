@@ -2,8 +2,8 @@
 
 ## Proto type
 
-```php
-
+```c
+array filelist_lib(string path, [ string mode, [ string regex ] ])
 ```
 
 ## Description
