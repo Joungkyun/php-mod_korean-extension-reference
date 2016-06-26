@@ -2,8 +2,8 @@
 
 ## Proto type
 
-```php
-(string) buildno_lib (void)
+```c
+string buildno_lib (void)
 ```
 
 ## Description
