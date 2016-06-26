@@ -20,7 +20,7 @@
        * [filelist_lib](Filesystem/filelist_lib.md)
        * [getfile_lib](Filesystem/getfile_lib.md)
        * [getfiletype_lib](Filesystem/getfiletype_lib.md)
-       * [putfile_lib](Filesystem/putfile_lib)
+       * [putfile_lib](Filesystem/putfile_lib.md)
        * [readfile_lib](Filesystem/readfile_lib)
    * [HTML Functions](HTML/README.md)
        * [agentinfo_lib](HTML/agentinfo_lib.md)
