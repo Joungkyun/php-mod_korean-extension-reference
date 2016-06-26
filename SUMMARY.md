@@ -7,7 +7,7 @@
        * [check_filename_lib](Check/checkfilename_lib.md)
        * [check_htmltbale_lib](Check/checkhtmltbale_lib.md)
        * [check_uristr_lib](Check/checkuristr_lib.md)
-       * [get_microtime_lib](Check/get_microtime_lib)
+       * [get_microtime_lib](Check/getmicrotime_lib.md)
        * [human_fsize_lib](Check/human_fsize_lib)
        * [is_email_lib](Check/is_email_lib)
        * [is_hangul_lib](Check/is_hangul_lib)
