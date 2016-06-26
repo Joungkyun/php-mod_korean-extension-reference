@@ -6,7 +6,7 @@
    * [Check Functions](check_functions.md)
    * [Filesystem Functions](filesystem_functions.md)
    * [HTML Functions](html_functions.md)
-   * Charset Functions
+   * [Charset Functions](charset_functions.md)
    * Image Functions
    * Mail Functions
 
