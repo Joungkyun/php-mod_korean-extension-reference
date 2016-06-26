@@ -32,7 +32,7 @@
        * [pnotice_lib](HTML/pnotice_lib.md)
    * [Charset Functions](Charset/README.md)
        * [ncrencode_lib](Charset/ncrencode_lib.md)
-       * [ncrdecode_lib](Charset/ncrdecode_lib)
+       * [ncrdecode_lib](Charset/ncrdecode_lib.md)
        * [uniencode_lib](Charset/uniencode_lib)
        * [unidecode_lib](Charset/unidecode_lib)
        * [utf8encode_lib](Charset/utf8encode_lib)
