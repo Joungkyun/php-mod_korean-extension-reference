@@ -25,42 +25,42 @@ File System 관련 함수는 파일 리스트, 파일 내용, 파일 쓰기등 �
 win32 용에서 파일 경로를 상대경로로 사용할 경우에는 realpath() 함수를 이용하여 절대 경로화를 해서
 사용해야 한다.
 
-* ___filelist_lib___ - 지정 디렉토리의 파일 리스트를 가져옴
-* ___getfile_lib___ - 파일의 내용을 변수로 받음
-* ___getfiletype_lib___ - 파일 이름에서 확장자를 받아옴
-* ___putfile_lib___ - 파일을 기록하는 함수
-* ___readfile_lib___ - 파일이나 웹문서의 소스를 변수로 받음
-* ___pcregrep_lib___ - pcre 정규식을 이용한 grep
+* ___[filelist_lib](Filesystem/filelist_lib.md)___ - 지정 디렉토리의 파일 리스트를 가져옴
+* ___[getfile_lib](Filesystem/getfile_lib.md)___ - 파일의 내용을 변수로 받음
+* ___[getfiletype_lib](Filesystem/getfiletype_lib.md)___ - 파일 이름에서 확장자를 받아옴
+* ___[putfile_lib](Filesystem/putfile_lib.md)___ - 파일을 기록하는 함수
+* ___[readfile_lib](Filesystem/readfile_lib.md)___ - 파일이나 웹문서의 소스를 변수로 받음
+* ___[pcregrep_lib](Filesystem/pcregrep_lib.md)___ - pcre 정규식을 이용한 grep
 
 ## 3. [HTML functions](html_functions.md)
 
-* ___agentinfo_lib___ - 브라우져의 정보를 구함
-* ___autolink_lib___ - TEXT 중 URL 이나 EMAIL 을 자동으로 링크
-* ___get_hostname_lib___ - IP 로 호스트 이름을 가져오는 함수
-* ___movepage_lib___ - 페이지를 이동시키는 함수
-* ___perror_lib___ - 에러 메세지를 출력후 원하는 페이지로 이동
-* ___pnotice_lib___ - 경고 메세지 또는 전달 메세지를 출력
+* ___[agentinfo_lib](HTML/agentinfo_lib.md)___ - 브라우져의 정보를 구함
+* ___[autolink_lib](HTML/autolink_lib.md)___ - TEXT 중 URL 이나 EMAIL 을 자동으로 링크
+* ___[get_hostname_lib](HTML/get_hostname_lib.md)___ - IP 로 호스트 이름을 가져오는 함수
+* ___[movepage_lib](HTML/movepage_lib.md)___ - 페이지를 이동시키는 함수
+* ___[perror_lib](HTML/perror_lib.md)___ - 에러 메세지를 출력후 원하는 페이지로 이동
+* ___[pnotice_lib](HTML/pnotice_lib.md)___ - 경고 메세지 또는 전달 메세지를 출력
 
 ## 4. [Charset functions](charset_functions.md)
 
 EUC-KR/CP949 와 UTF-8 간의 변환 및 관련 함수를 제공 합니다.
 
-* ___ncrencode_lib___ - CP949 문자열을 UHC (ncr code) 로 변환
-* ___ncrdecode_lib___ - NCR code 를 CP949 문자열로 변환
-* ___uniencode_lib___ - CP949 테이블을 UNICODE 로 변환
-* ___unidecode_lib___ - UNICODE 테이블을 EUC-KR, CP949 로 변환
-* ___utf8encode_lib___ - CP949 문자열을 utf-8 로 변환
-* ___utf8decode_lib___ - utf-8 문자열을 CP949로 변환
-* ___substr_lib___ - 2 byte 를 처리하는 substr() 함수
-* ___posstposition_lib___ - 해당 단어의 종성을 구분하여 조사를 정함
+* ___[ncrencode_lib](Charset/ncrencode_lib.md)___ - CP949 문자열을 UHC (ncr code) 로 변환
+* ___[ncrdecode_lib](Charset/ncrdecode_lib.md)___ - NCR code 를 CP949 문자열로 변환
+* ___[uniencode_lib](Charset/uniencode_lib.md)___ - CP949 테이블을 UNICODE 로 변환
+* ___[unidecode_lib](Charset/unidecode_lib.md)___ - UNICODE 테이블을 EUC-KR, CP949 로 변환
+* ___[utf8encode_lib](Charset/utf8encode_lib.md)___ - CP949 문자열을 utf-8 로 변환
+* ___[utf8decode_lib](Charset/utf8decode_lib.md)___ - utf-8 문자열을 CP949로 변환
+* ___[substr_lib](Charset/substr_lib.md)___ - 2 byte 를 처리하는 substr() 함수
+* ___[posstposition_lib](Charset/posstposition_lib.md)___ - 해당 단어의 종성을 구분하여 조사를 정함
 
 ## 5. [Image functions](image_functions.md)
 
-* ___imgresize_lib___ - 이미지 사이즈를 조정하여 출력하거나 생성
+* ___[imgresize_lib](Image/imgresize_lib.md)___ - 이미지 사이즈를 조정하여 출력하거나 생성
 
 ## 6. [Mail functions](mail_functions.md)
 
 PHP의 mail() function 과 관련 없이, 자체적으로 mail을 발송할 수 있는 환경을 제공 합니다.
 
-* ___mailsource_lib___ - mail raw data를 생성
-* ___sockmail_lib___ - SMTP에 의존하지 않고, socket으로 직접 메일 발송
+* ___[mailsource_lib](Mail/mailsource_lib.md)___ - mail raw data를 생성
+* ___[sockmail_lib](Mail/sockmail_lib.md)___ - SMTP에 의존하지 않고, socket으로 직접 메일 발송
