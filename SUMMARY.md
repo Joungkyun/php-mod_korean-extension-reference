@@ -5,4 +5,5 @@
 * [APIs](apis.md)
    * Check Functions
    * Filesystem Functions
+   * HTML Functions
 
