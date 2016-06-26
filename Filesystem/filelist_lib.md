@@ -3,7 +3,7 @@
 ## Proto type
 
 ```c
-array filelist_lib(string path, [ string mode, [ string regex ] ])
+array filelist_lib (string path, [ string mode, [ string regex ] ])
 ```
 
 ## Description
