@@ -1,11 +1,11 @@
 # APIs
 
-## Check Functions
+## [Check Functions](check_functions.md)
 
 
 check 관련 함수들은 어떠한 값이나 상황을 체크하는 함수들을 모아놓은 함수 입니다.
 
-* ___[check_filename_lib](Check/check_filename_lib)___ - GET 이나 POST 로 넘어오는 파일 경로 변수 체크
+* ___check_filename_lib___ - GET 이나 POST 로 넘어오는 파일 경로 변수 체크
 * ___check_htmltable_lib___ - table 태그가 제대로 사용되었는지 검사
 * ___check_uristr_lib___ -  GET 또는 POST 로 전달되는 파일 경로 변수 체크
 * ___get_microtime_lib___ - 수행 시간을 밀리초로 구하는 함수
@@ -18,7 +18,7 @@ check 관련 함수들은 어떠한 값이나 상황을 체크하는 함수들�
 * ___buildno_lib___ - korean extension 의 빌드넘버를 출력
 * ___version_lib___ - korean extension 의 버전을 출력
 
-## Filesystem Functions
+## [Filesystem Functions](filesystem_functions.md)
 
 File System 관련 함수는 파일 리스트, 파일 내용, 파일 쓰기등 파일 시스템과 관련된 함수들의 모음이다.
 
@@ -32,7 +32,7 @@ win32 용에서 파일 경로를 상대경로로 사용할 경우에는 realpath
 * ___readfile_lib___ - 파일이나 웹문서의 소스를 변수로 받음
 * ___pcregrep_lib___ - pcre 정규식을 이용한 grep
 
-## HTML functions
+## [HTML functions](html_functions.md)
 
 * ___agentinfo_lib___ - 브라우져의 정보를 구함
 * ___autolink_lib___ - TEXT 중 URL 이나 EMAIL 을 자동으로 링크
@@ -41,7 +41,7 @@ win32 용에서 파일 경로를 상대경로로 사용할 경우에는 realpath
 * ___perror_lib___ - 에러 메세지를 출력후 원하는 페이지로 이동
 * ___pnotice_lib___ - 경고 메세지 또는 전달 메세지를 출력
 
-## Charset functions
+## [Charset functions](charset_functions.md)
 
 EUC-KR/CP949 와 UTF-8 간의 변환 및 관련 함수를 제공 합니다.
 
@@ -54,11 +54,11 @@ EUC-KR/CP949 와 UTF-8 간의 변환 및 관련 함수를 제공 합니다.
 * ___substr_lib___ - 2 byte 를 처리하는 substr() 함수
 * ___posstposition_lib___ - 해당 단어의 종성을 구분하여 조사를 정함
 
-## Image functions
+## [Image functions](image_functions.md)
 
 * ___imgresize_lib___ - 이미지 사이즈를 조정하여 출력하거나 생성
 
-## Mail functions
+## [Mail functions](mail_functions.md)
 
 PHP의 mail() function 과 관련 없이, 자체적으로 mail을 발송할 수 있는 환경을 제공 합니다.
 
