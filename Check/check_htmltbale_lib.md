@@ -2,7 +2,8 @@
 
 ## Proto type
 
-```php
+```c
+int check_htmltable_lib (string text)
 ```
 
 ## Description
