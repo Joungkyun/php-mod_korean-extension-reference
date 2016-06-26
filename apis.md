@@ -5,7 +5,7 @@
 
 check 관련 함수들은 어떠한 값이나 상황을 체크하는 함수들을 모아놓은 함수 입니다.
 
-* ___check_filename_lib___ - GET 이나 POST 로 넘어오는 파일 경로 변수 체크
+* ___[check_filename_lib](Check/check_filename_lib)___ - GET 이나 POST 로 넘어오는 파일 경로 변수 체크
 * ___check_htmltable_lib___ - table 태그가 제대로 사용되었는지 검사
 * ___check_uristr_lib___ -  GET 또는 POST 로 전달되는 파일 경로 변수 체크
 * ___get_microtime_lib___ - 수행 시간을 밀리초로 구하는 함수
