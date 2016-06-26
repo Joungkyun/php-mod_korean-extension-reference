@@ -30,6 +30,7 @@ win32 용에서 경로를 상대경로로 사용할 경우에는 realpath() 함�
 ## Example
 
 ```php
+<?php
 # /home/backup 하위의 디렉토리 리스트를 받을 경우
 $a = filelist_lib ('/home/backup', 'd');
 for( $i=0 ;$i<count ($a); $i++ ) {
@@ -41,6 +42,7 @@ $a = filelist_lib ('/home/backup', 'f', 'tar\.gz$');
 for( $i=0; $i<count ($a); $i++ ) {
   echo $a[$i]."\n";
 }
+?>
 ```
 
 ## See also
