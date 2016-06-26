@@ -18,7 +18,7 @@
        * [version_lib](Check/version_lib.md)
    * [Filesystem Functions](Filesystem/README.md)
        * [filelist_lib](Filesystem/filelist_lib.md)
-       * [getfile_lib](Filesystem/getfile_lib)
+       * [getfile_lib](Filesystem/getfile_lib.md)
        * [getfiletype_lib](Filesystem/getfiletype_lib)
        * [putfile_lib](Filesystem/putfile_lib)
        * [readfile_lib](Filesystem/readfile_lib)
