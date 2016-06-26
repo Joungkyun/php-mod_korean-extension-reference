@@ -40,7 +40,7 @@
        * [postposition_lib](Charset/)
    * [Image Functions](Image/README.md)
        * [imgresize_lib](Image/imgresize_lib)
-   * [Mail Functions](mail_functions.md)
+   * [Mail Functions](Mail/README.md)
        * [mailsource_lib](Mail/mailsource_lib)
        * [sockmail_lib](Mail/sockmail_lib)
 
