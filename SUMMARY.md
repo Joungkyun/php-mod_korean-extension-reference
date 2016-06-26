@@ -22,7 +22,7 @@
        * [getfiletype_lib](Filesystem/getfiletype_lib.md)
        * [putfile_lib](Filesystem/putfile_lib.md)
        * [readfile_lib](Filesystem/readfile_lib.md)
-       * pcregrep_lib
+       * [pcregrep_lib](Filesystem/pcregrep_lib.md)
    * [HTML Functions](HTML/README.md)
        * [agentinfo_lib](HTML/agentinfo_lib.md)
        * [autolink_lib](HTML/autolink_lib)
