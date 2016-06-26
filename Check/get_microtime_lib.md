@@ -3,7 +3,7 @@
 ## Proto type
 
 ```c
-int get_microtime_lib(int start, int end)
+int get_microtime_lib (int start, int end)
 ```
 
 ## Description
