@@ -8,6 +8,7 @@
        * getfile_lib
        * getfiletype_lib
        * putfile_lib
+       * readfile_lib
    * [Filesystem Functions](filesystem_functions.md)
    * [HTML Functions](html_functions.md)
    * [Charset Functions](charset_functions.md)
