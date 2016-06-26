@@ -16,7 +16,7 @@
        * [is_windows_lib](Check/is_windows_lib)
        * [buildno_lib](Check/buildno_lib)
        * [version_lib](Check/version_lib)
-   * [Filesystem Functions](filesystem_functions.md)
+   * [Filesystem Functions](Filesystem/README.md)
        * [filelist_lib](Filesystem/filelist_lib)
        * [getfile_lib](Filesystem/getfile_lib)
        * [getfiletype_lib](Filesystem/getfiletype_lib)
