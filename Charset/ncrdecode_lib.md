@@ -3,11 +3,12 @@
 ## Proto type
 
 ```php
-
+string ncrdecode_lib (string str)
 ```
 
 ## Description
 
+ncrdecode_lib() 함수는 16 진수 NCR code 로 되어있는 문자를 CP949 테이블로 변환을 한다.
 
 ## Arguments
 
