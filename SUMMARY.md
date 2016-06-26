@@ -42,5 +42,5 @@
        * [imgresize_lib](Image/imgresize_lib)
    * [Mail Functions](Mail/README.md)
        * [mailsource_lib](Mail/mailsource_lib)
-       * [sockmail_lib](Mail/sockmail_lib)
+       * [sockmail_lib](Mail/sockmaillib.md)
 
