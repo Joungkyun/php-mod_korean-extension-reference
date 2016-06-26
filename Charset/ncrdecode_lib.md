@@ -12,6 +12,7 @@ ncrdecode_lib() 함수는 16 진수 NCR code 로 되어있는 문자를 CP949 �
 
 ## Arguments
 
+```(strint) str - input string```
 
 ## Example
 
