@@ -14,7 +14,7 @@ null 값을 리턴한다.
 
 ## Arguments
 
-* (string) emial - 검사할 email 주소
+* (string) email - 검사할 email 주소
 
 ## Example
 
