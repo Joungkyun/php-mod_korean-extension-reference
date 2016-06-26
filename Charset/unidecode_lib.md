@@ -35,6 +35,6 @@ $a = unidecode_lib($a,"cp949","U-",";");
 ```
 
 ## See also
-None
+* [uniencode_lib ()](Charset/uniencode_lib.md)
 
 
