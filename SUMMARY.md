@@ -34,7 +34,7 @@
        * [ncrencode_lib](Charset/ncrencode_lib.md)
        * [ncrdecode_lib](Charset/ncrdecode_lib.md)
        * [uniencode_lib](Charset/uniencode_lib.md)
-       * [unidecode_lib](Charset/unidecode_lib)
+       * [unidecode_lib](Charset/unidecode_lib.md)
        * [utf8encode_lib](Charset/utf8encode_lib)
        * [utf8decode_lib](Charset/utf8decode_lib)
        * [substr_lib](Charset/substr_lib)
