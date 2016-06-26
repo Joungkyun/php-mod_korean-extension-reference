@@ -3,6 +3,7 @@
 ## Proto type
 
 ```php
+
 ```
 
 ## Description
@@ -14,6 +15,7 @@
 ## Example
 
 ```php
+
 ```
 
 ## See also
