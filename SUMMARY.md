@@ -29,7 +29,7 @@
        * [get_hostname_lib](HTML/get_hostname_lib.md)
        * [movepage_lib](HTML/movepage_lib.md)
        * [perror_lib](HTML/perror_lib.md)
-       * [pnotice_lib](HTML/pnotice_lib)
+       * [pnotice_lib](HTML/pnotice_lib.md)
    * [Charset Functions](Charset/README.md)
        * [ncrencode_lib](Charset/ncrencode_lib.md)
        * [ncrdecode_lib](Charset/ncrdecode_lib)
