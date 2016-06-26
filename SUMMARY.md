@@ -14,7 +14,7 @@
        * [is_iis_lib](Check/isiis_lib.md)
        * [is_url_lib](Check/isurl_lib.md)
        * [is_windows_lib](Check/iswindows_lib.md)
-       * [buildno_lib](Check/buildno_lib)
+       * [buildno_lib](Check/buildnolib.md)
        * [version_lib](Check/version_lib)
    * [Filesystem Functions](Filesystem/README.md)
        * [filelist_lib](Filesystem/filelist_lib)
