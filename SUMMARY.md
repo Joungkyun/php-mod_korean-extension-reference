@@ -13,7 +13,7 @@
        * [is_hangul_lib](Check/ishangul_lib.md)
        * [is_iis_lib](Check/isiis_lib.md)
        * [is_url_lib](Check/isurl_lib.md)
-       * [is_windows_lib](Check/is_windows_lib)
+       * [is_windows_lib](Check/iswindows_lib.md)
        * [buildno_lib](Check/buildno_lib)
        * [version_lib](Check/version_lib)
    * [Filesystem Functions](Filesystem/README.md)
