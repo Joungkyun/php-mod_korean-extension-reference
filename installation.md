@@ -1,3 +1,35 @@
-# First Chapter
+# Installation
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+먼저, https://github.com/OOPS-ORG-PHP/mod_korean/releases PHP 버전에 맞는 최신 버전을 다운로드를 받아서 압축을 풀어 놓습니다.
+
+  * PHP7 - mod_korean 1.x
+  * PHP4 or PHP5 - mod_korean 0.1.x
+
+먼저, phpize 명령을 이용하여, DSO 빌드 환경을 초기화 합니다.
+
+```bash
+[root@host mod_korean-1.0.1]$ phpize
+Configuring for:
+PHP Api Version:         20151012
+Zend Module Api No:      20151012
+Zend Extension Api No:   320151012
+```
+
+다음, ***configure***를 이용하여 compie 환경을 설정 합니다.
+
+```bash
+[root@host mod_korean-1.0.1]$ ./configure \
+    --with-libdir=lib64 \ # 32bit 환경에서는 lib64 대신 lib 를 지정하든지, 이 옵션을 제외 합니다.
+    --enable-korean \
+    --enable-korean-gd=buildin
+[root@host mod_korean-1.0.1]$ make && make install
+```
+
+
+
+설치가 완료 후, php.ini에 다음의 설정을 추가 합니다.
+
+```ini
+extension = korean.so
+```
