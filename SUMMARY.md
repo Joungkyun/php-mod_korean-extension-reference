@@ -8,5 +8,5 @@
    * [HTML Functions](html_functions.md)
    * [Charset Functions](charset_functions.md)
    * [Image Functions](image_functions.md)
-   * Mail Functions
+   * [Mail Functions](mail_functions.md)
 
