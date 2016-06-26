@@ -22,7 +22,7 @@
        * [getfiletype_lib](Filesystem/getfiletype_lib)
        * [putfile_lib](Filesystem/putfile_lib)
        * [readfile_lib](Filesystem/readfile_lib)
-   * [HTML Functions](html_functions.md)
+   * [HTML Functions](HTML/README.md)
        * [agentinfo_lib](HTML/agentinfo_lib)
        * [autolink_lib](HTML/autolink_lib)
        * [get_hostname_lib](HTML/get_hostname_lib)
