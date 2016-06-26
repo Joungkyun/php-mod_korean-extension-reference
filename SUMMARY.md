@@ -19,7 +19,7 @@
    * [Filesystem Functions](Filesystem/README.md)
        * [filelist_lib](Filesystem/filelist_lib.md)
        * [getfile_lib](Filesystem/getfile_lib.md)
-       * [getfiletype_lib](Filesystem/getfiletype_lib)
+       * [getfiletype_lib](Filesystem/getfiletype_lib.md)
        * [putfile_lib](Filesystem/putfile_lib)
        * [readfile_lib](Filesystem/readfile_lib)
    * [HTML Functions](HTML/README.md)
