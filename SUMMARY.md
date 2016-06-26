@@ -37,7 +37,7 @@
        * [unidecode_lib](Charset/unidecode_lib.md)
        * [utf8encode_lib](Charset/utf8encode_lib.md)
        * [utf8decode_lib](Charset/utf8decode_lib.md)
-       * [substr_lib](Charset/substr_lib)
+       * [substr_lib](Charset/substr_lib.md)
        * [postposition_lib](Charset/postposition_lib)
    * [Image Functions](Image/README.md)
        * [imgresize_lib](Image/imgresize_lib.md)
