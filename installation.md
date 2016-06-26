@@ -6,7 +6,7 @@
   * PHP7 - mod_korean 1.x
   * PHP4 or PHP5 - mod_korean 0.1.x
 
-먼저, phpize 명령을 이용하여, DSO 빌드 환경을 초기화 합니다.
+먼저, ***phpize*** 명령과 ***configure***를 이용하여 DSO 빌드 환경을 준비 합니다.
 
 ```bash
 [root@host mod_korean-1.0.1]$ phpize
@@ -14,15 +14,8 @@ Configuring for:
 PHP Api Version:         20151012
 Zend Module Api No:      20151012
 Zend Extension Api No:   320151012
-```
-
-다음, ***configure***를 이용하여 compie 환경을 설정 합니다.
-
-```bash
-[root@host mod_korean-1.0.1]$ ./configure \
-    --with-libdir=lib64 \ # 32bit 환경에서는 lib64 대신 lib 를 지정하든지, 이 옵션을 제외 합니다.
-    --enable-korean \
-    --enable-korean-gd=buildin
+[root@host mod_korean-1.0.1]$ # --with-libdir 옵션은 64bit 환경에서만 지정합니다.
+[root@host mod_korean-1.0.1]$ ./configure --with-libdir=lib64 --enable-korean --enable-korean-gd=builtin
 [root@host mod_korean-1.0.1]$ make && make install
 ```
 
