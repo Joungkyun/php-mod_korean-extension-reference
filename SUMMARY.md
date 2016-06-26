@@ -29,7 +29,7 @@
        * [movepage_lib](HTML/movepage_lib)
        * [perror_lib](HTML/perror_lib)
        * [pnotice_lib](HTML/pnotice_lib)
-   * [Charset Functions](charset_functions.md)
+   * [Charset Functions](Charset/README.md)
        * [ncrencode_lib](Charset/ncrencode_lib)
        * [ncrdecode_lib](Charset/ncrdecode_lib)
        * [uniencode_lib](Charset/uniencode_lib)
