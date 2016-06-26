@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Installation](installation.md)
 * [APIs](apis.md)
-   * [Check Functions](check_functions.md)
+   * [Check Functions](Check/README.md)
    * [Filesystem Functions](filesystem_functions.md)
    * HTML Functions
    * Charset Functions
