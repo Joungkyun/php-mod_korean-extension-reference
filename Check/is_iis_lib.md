@@ -19,10 +19,10 @@ void
 
 ```php
 <?php
-if ( is_windwos_lib () )
-  echo "This is windwos machine\n";
+if ( is_iis_lib () )
+  echo "This is IIS web server\n";
 else
-  echo "This is not windwos machine\n";
+  echo "This is not IIS web server\n";
 ?>
 ```
 
