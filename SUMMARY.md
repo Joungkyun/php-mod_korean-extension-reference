@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Installation](installation.md)
 * [APIs](apis.md)
-   * [Check Functions](check_functions.md)
+   * [Check Functions](Check/README.md)
        * [check_filename_lib](Check/checkfilename_lib.md)
        * [check_htmltbale_lib](Check/checkhtmltbale_lib.md)
        * [check_uristr_lib](Check/checkuristr_lib.md)
