@@ -5,6 +5,7 @@
 * [APIs](apis.md)
    * [Check Functions](check_functions.md)
        * filelist_lib
+       * getfile_lib
    * [Filesystem Functions](filesystem_functions.md)
    * [HTML Functions](html_functions.md)
    * [Charset Functions](charset_functions.md)
