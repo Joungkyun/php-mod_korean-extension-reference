@@ -16,6 +16,14 @@ string pcregrep_lib(string regex, string text [, int opt])
 
 ## Arguments
 
+```
+(string) regex - matching condition
+
+(string) text - raw data
+
+(int) opt (optional) - revert condition
+```
+
 
 ## Example
 
