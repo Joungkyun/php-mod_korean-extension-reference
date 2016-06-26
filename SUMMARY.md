@@ -38,7 +38,7 @@
        * [utf8decode_lib](Charset/utf8decode_lib)
        * [substr_lib](Charset/substr_lib)
        * [postposition_lib](Charset/)
-   * [Image Functions](image_functions.md)
+   * [Image Functions](Image/README.md)
        * [imgresize_lib](Image/imgresize_lib)
    * [Mail Functions](mail_functions.md)
        * [mailsource_lib](Mail/mailsource_lib)
