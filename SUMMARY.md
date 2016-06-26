@@ -11,7 +11,7 @@
        * [human_fsize_lib](Check/humanfsize_lib.md)
        * [is_email_lib](Check/isemail_lib.md)
        * [is_hangul_lib](Check/ishangul_lib.md)
-       * [is_iis_lib](Check/is_iis_lib)
+       * [is_iis_lib](Check/isiis_lib.md)
        * [is_url_lib](Check/is_url_lib)
        * [is_windows_lib](Check/is_windows_lib)
        * [buildno_lib](Check/buildno_lib)
