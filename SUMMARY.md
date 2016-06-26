@@ -25,7 +25,7 @@
        * [pcregrep_lib](Filesystem/pcregrep_lib.md)
    * [HTML Functions](HTML/README.md)
        * [agentinfo_lib](HTML/agentinfo_lib.md)
-       * [autolink_lib](HTML/autolink_lib)
+       * [autolink_lib](HTML/autolink_lib.md)
        * [get_hostname_lib](HTML/get_hostname_lib)
        * [movepage_lib](HTML/movepage_lib)
        * [perror_lib](HTML/perror_lib)
