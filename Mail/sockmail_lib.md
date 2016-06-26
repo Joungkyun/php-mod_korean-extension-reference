@@ -3,7 +3,7 @@
 ## Proto type
 
 ```c
-int sockmail_lib(string mail [, string from [, string to [, string helo_host [, int debug ] ] ] ])
+int sockmail_lib (string mail [, string from [, string to [, string helo_host [, int debug ] ] ] ])
 ```
 
 ## Description
