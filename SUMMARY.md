@@ -28,7 +28,7 @@
        * [autolink_lib](HTML/autolink_lib.md)
        * [get_hostname_lib](HTML/get_hostname_lib.md)
        * [movepage_lib](HTML/movepage_lib.md)
-       * [perror_lib](HTML/perror_lib)
+       * [perror_lib](HTML/perror_lib.md)
        * [pnotice_lib](HTML/pnotice_lib)
    * [Charset Functions](Charset/README.md)
        * [ncrencode_lib](Charset/ncrencode_lib.md)
