@@ -30,7 +30,7 @@
        * [perror_lib](HTML/perror_lib)
        * [pnotice_lib](HTML/pnotice_lib)
    * [Charset Functions](Charset/README.md)
-       * [ncrencode_lib](Charset/ncrencode_lib)
+       * [ncrencode_lib](Charset/ncrencodelib.md)
        * [ncrdecode_lib](Charset/ncrdecode_lib)
        * [uniencode_lib](Charset/uniencode_lib)
        * [unidecode_lib](Charset/unidecode_lib)
