@@ -2,8 +2,8 @@
 
 ## Proto type
 
-```php
-int check_uristr_lib (string variable)
+```c
+int check_uristr_lib (string string)
 ```
 
 ## Description
@@ -14,6 +14,8 @@ int check_uristr_lib (string variable)
 check_filename_lib 함수와의 다른점은 도트(.) 문자를 허락하지 않는다는 점이다.
 
 ## Arguments
+
+* (string) string - 검사할 문자열
 
 
 ## Example
