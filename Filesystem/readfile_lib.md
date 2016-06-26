@@ -3,7 +3,7 @@
 ## Proto type
 
 ```c
-string readfile_lib(string filename [, int use_include_path])
+string readfile_lib (string filename [, int use_include_path])
 ```
 
 ## Description
@@ -40,13 +40,28 @@ win32 용에서 파일 경로를 상대 경로로 사용할 경우에는 realpat
 
 ## Arguments
 
+```
+(string) filename
+     source file
+
+(int) use_include_path (optional)
+     파일이 존재하지 않을 경우, include_path 에서 파일을 찾는다.
+```
+
 
 ## Example
 
 ```php
+<?php
+$file = "http://test.com/index.html";
+$value = readfile_lib ($file);
 
+$file = "/home/httpd/html/test.txt";
+$value = readfile_lib ($file);
+?>
 ```
 
 ## See also
-None
+* [file_get_contents ()](http://php.net/manual/kr/function.file-get-contents.php)
+* [readfile ()](http://php.net/manual/kr/function.readfile.php)
 
