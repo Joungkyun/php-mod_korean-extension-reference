@@ -10,7 +10,7 @@
        * [get_microtime_lib](Check/getmicrotime_lib.md)
        * [human_fsize_lib](Check/humanfsize_lib.md)
        * [is_email_lib](Check/isemail_lib.md)
-       * [is_hangul_lib](Check/is_hangul_lib)
+       * [is_hangul_lib](Check/ishangul_lib.md)
        * [is_iis_lib](Check/is_iis_lib)
        * [is_url_lib](Check/is_url_lib)
        * [is_windows_lib](Check/is_windows_lib)
