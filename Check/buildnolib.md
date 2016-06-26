@@ -20,6 +20,7 @@ void
 <?php
 // print: 201512301506
 echo buildno_lib();
+?>
 ```
 
 ## See also
