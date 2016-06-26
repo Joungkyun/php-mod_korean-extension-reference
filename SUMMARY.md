@@ -4,7 +4,7 @@
 * [Installation](installation.md)
 * [APIs](apis.md)
    * [Check Functions](check_functions.md)
-       * [check_filename_lib](Check/check_filename_lib)
+       * [check_filename_lib](Check/checkfilename_lib.md)
        * [check_htmltbale_lib](Check/check_htmltbale_lib)
        * [check_uristr_lib](Check/check_uristr_lib)
        * [get_microtime_lib](Check/get_microtime_lib)
@@ -43,3 +43,4 @@
    * [Mail Functions](mail_functions.md)
        * [mailsource_lib](Mail/mailsource_lib)
        * [sockmail_lib](Mail/sockmail_lib)
+
