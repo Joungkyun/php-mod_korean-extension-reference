@@ -11,4 +11,3 @@ EUC-KR/CP949 와 UTF-8 간의 변환 및 관련 함수를 제공 합니다.
 * ___[utf8decode_lib](Charset/utf8decode_lib.md)___ - utf-8 문자열을 CP949로 변환
 * ___[substr_lib](Charset/substr_lib.md)___ - 2 byte 를 처리하는 substr() 함수
 * ___[posstposition_lib](Charset/posstposition_lib.md)___ - 해당 단어의 종성을 구분하여 조사를 정함
-
