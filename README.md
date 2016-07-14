@@ -1,7 +1,7 @@
 # PHP mod_korean extensin Reference
 
 
-Copyright &cpoy; 2016 JoungKyun.Kim <http://oops.org> All rights reserved.
+Copyright &cpoy; 2016 [JoungKyun.Kim](https://joungkyun.github.com) All rights reserved.
 
 
 ## Description
